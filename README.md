@@ -1,9 +1,9 @@
-__Howdy, I'm João Pedro!__👋 
+**Howdy, I'm João Pedro!** 👋 
 
 - 🔭 I am a Computer Science Student and a enthusiastic of design area.
 - ⚡ **Fun fact:** I'm a mentor of a robotics team.
 
-<p align="center">__Social Networks__</p>
+<p align="center"><b>Social Networks__</b>
 <a href="https://www.instagram.com/fpereira.joaopedro" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/fpereira.joaopedro">
 </a>
