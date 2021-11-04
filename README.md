@@ -15,12 +15,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JPedroo&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JPedroo&theme=tokyonight)
 
-- uses: Platane/snk@master
-  with:
-    github_user_name: ${{ github.repository_JPedroo}}
 
-    gif_out_path: dist/github-snake.gif
-
-    svg_out_path: dist/github-snake.svg
+![Snake animation](https://github.com/JPedroo/JPedroo/blob/output/github-contribution-grid-snake.svg)
 
   
