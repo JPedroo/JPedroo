@@ -5,9 +5,8 @@
 
 <p align="center"><b>Social Networks</b></p>
   
-<a href="https://www.instagram.com/fpereira.joaopedro" alt="Instagram" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/fpereira.joaopedro" align="middle">
-</a>
+<p><a href="https://www.instagram.com/fpereira.joaopedro" alt="Instagram" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/fpereira.joaopedro" align="middle"></a></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JPedroo)](https://github.com/JPedroo/github-readme-stats)
 
