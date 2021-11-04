@@ -1,16 +1,17 @@
-### Hi there 👋
+**Howdy, I'm João Pedro!**👋 
 
-<!--
-**JPedroo/JPedroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I am a Computer Science Student and a enthusiastic of design area.
+- ⚡ **Fun fact:** I'm a mentor of a robotics team.
 
-Here are some ideas to get you started:
+<p align="center">**Learnin skills in**</p>
+<img src="https://commons.wikimedia.org/wiki/File:C_Programming_Language.svg" width="50px">
+<img src="https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg" width="50px">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">**Social Networks**</p>
+<a href="https://www.instagram.com/fpereira.joaopedro" alt="Instagram" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/fpereira.joaopedro">
+</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JPedroo)](https://github.com/anuraghazra/github-readme-stats)
+
+![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
