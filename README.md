@@ -20,15 +20,16 @@
  <br />
 </kbd>
 
-
+<br />
 <br />
  <div>
   <a href="https://instagram.com/fpereira.joaopedro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
-
+ 
 <br />
-<br />
+ <br />
+  <br />
  <div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPedroo&layout=compact&count_private=true&theme=tokyonight" />
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=JPedroo&show_icons=true&theme=tokyonight" />
