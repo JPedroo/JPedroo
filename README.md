@@ -1,21 +1,34 @@
-**Howdy, I'm João Pedro!** 👋 
+ <h1>Howdy, I'm João Pedro! <img src="https://github.com/fflucas/fflucas/blob/main/Assets/Hi.gif" width="29px"></h1>
+ 
+ <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90339129/154598438-7afe51b8-3515-4c30-bceb-4836c556cbd7.gif" width="500" height="320" />
 
-- 🔭 I am a Computer Science Student and a enthusiastic of design area.
+- 🔭 I'm a Computer Science Student at Federal University of Catalão.
 - ⚡ **Fun fact:** I'm a mentor of a robotics team.
+- 📫 **Contact:** joaopedrojp22@outlook.com
 
-
-<p align="center"><b>Social Networks</b></p>
+<kbd align="center">
+<kbd>Estudando:</kbd>
+ <br />
+ <br />
   
-<p align="center"><a href="https://www.instagram.com/fpereira.joaopedro" alt="Instagram" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/fpereira.joaopedro"></a></p>
-  
- 
- <p align="center"><b>🌟 My GitHub stats</b></p>
- 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JPedroo&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JPedroo&theme=tokyonight)
+  <img align="center" title="C" alt="C" height="30" width="40" src="https://user-images.githubusercontent.com/90339129/154599232-fd849fe2-efbd-4c97-837f-7210da1bfd4d.svg">
+  <img align="center" title="Python" alt="Py" height="30" width="40" src="https://user-images.githubusercontent.com/90339129/154599527-5685a1e2-d774-43b1-9151-ddc414f0d9f1.svg">
+
+  <br />
+ <br />
+
+</kbd>
+
+<div>
+  <a href="https://instagram.com/fpereira.joaopedro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+<div>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPedroo&layout=compact&count_private=true&theme=tokyonight" />
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=JPedroo&show_icons=true&theme=tokyonight" />
+</div>
 
 
-![Snake animation](https://github.com/JPedroo/JPedroo/blob/output/github-contribution-grid-snake.svg)
 
   
