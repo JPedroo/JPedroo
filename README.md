@@ -9,7 +9,7 @@
  <br />
  <br />
 <kbd align="center">
-<kbd>**Estudando:**</kbd>
+<kbd>Estudando:</kbd>
  <br />
  <br />
   
@@ -31,8 +31,8 @@
  <br />
   <br />
  <div>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPedroo&layout=compact&count_private=true&theme=tokyonight" />
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=JPedroo&show_icons=true&theme=tokyonight" />
+  <img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPedroo&layout=compact&count_private=true&theme=tokyonight" />
+  <img height="140cm" src="https://github-readme-stats.vercel.app/api?username=JPedroo&show_icons=true&theme=tokyonight" />
 </div>
 
 
