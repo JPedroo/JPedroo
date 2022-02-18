@@ -9,7 +9,7 @@
  <br />
  <br />
 <kbd align="center">
-<kbd>Estudando:</kbd>
+<kbd>**Estudando:**</kbd>
  <br />
  <br />
   
