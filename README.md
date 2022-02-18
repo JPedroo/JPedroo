@@ -6,6 +6,8 @@
 - ⚡ **Fun fact:** I'm a mentor of a robotics team.
 - 📫 **Contact:** joaopedrojp22@outlook.com
 
+ <br />
+ <br />
 <kbd align="center">
 <kbd>Estudando:</kbd>
  <br />
@@ -16,15 +18,18 @@
 
   <br />
  <br />
-
 </kbd>
 
-<div>
+
+<br />
+ <div>
   <a href="https://instagram.com/fpereira.joaopedro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+ </div>
 
-<div>
+<br />
+<br />
+ <div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPedroo&layout=compact&count_private=true&theme=tokyonight" />
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=JPedroo&show_icons=true&theme=tokyonight" />
 </div>
