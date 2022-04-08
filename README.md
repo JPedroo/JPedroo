@@ -13,9 +13,12 @@
  <br />
  <br />
   
+ 
   <img align="center" title="C" alt="C" height="30" width="40" src="https://user-images.githubusercontent.com/90339129/154599232-fd849fe2-efbd-4c97-837f-7210da1bfd4d.svg">
   <img align="center" title="Python" alt="Py" height="30" width="40" src="https://user-images.githubusercontent.com/90339129/154599527-5685a1e2-d774-43b1-9151-ddc414f0d9f1.svg">
+ <img align="center" title="GoLang" alt="Go" height="30" width="40" src="https://user-images.githubusercontent.com/90339129/162338526-cd1bc878-f19c-4c9e-b00b-af4de22e1bf5.svg">
 
+ 
   <br />
  <br />
 </kbd>
