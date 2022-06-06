@@ -1,4 +1,4 @@
- <h1>Howdy, I'm João Pedro! <img src="https://github.com/fflucas/fflucas/blob/main/Assets/Hi.gif" width="15px"></h1>
+ <h1>Howdy, I'm João Pedro!</h1>
  
  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90339129/154598438-7afe51b8-3515-4c30-bceb-4836c556cbd7.gif" width="500" height="320" />
 
