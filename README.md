@@ -5,7 +5,7 @@
 <img align="right" height="200px" width="350px" alt="GIF" src="https://github.com/JPedroo/JPedroo/assets/90339129/5d7f4bc5-7ae0-416b-8070-965c9ced4c7c" />
 
 - 📚 I'm a Computer Science Student at Universidade Federal de Catalão.
-- 📫 Contact me at <strong>joaopedrojp22@outlook.com</strong>
+- 📫 Contact me at <strong>joaopedrojp21@outlook.com</strong>
 - 💻 Connect with me on <a href="https://linkedin.com/in/devjpedro"><strong>LinkedIn</strong></a>
 - 🌱 Currently learning MongoDB and enhancing Python skills
 - 🤖 I'm a mentor of a FIRST robotics team.
