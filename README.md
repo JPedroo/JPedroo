@@ -7,7 +7,7 @@
 - 📚 I'm a Computer Science Student at Universidade Federal de Catalão.
 - 📫 Contact me at <strong>joaopedrojp21@outlook.com</strong>
 - 💻 Connect with me on <a href="https://linkedin.com/in/devjpedro"><strong>LinkedIn</strong></a>
-- 🌱 Currently learning MongoDB and enhancing Python skills
+- 🌱 Currently learning MongoDB and enhancing Python skills with Django framework.
 - 🤖 I'm a mentor of a FIRST robotics team.
 
 <br>
@@ -18,6 +18,12 @@
 > Tools, languages, and other things that I like to work with.
 <table>
   <tr>
+     <td align="center" width="96"> 
+      <a href="#JPedroo-tech" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/django/django-plain.svg" width="48" height="48" alt="Django" />
+      </a>
+      <br> Django
+    </td>
     <td align="center" width="96">
       <a href="#JPedroo-tech">
         <img src="https://github.com/JPedroo/JPedroo/assets/90339129/d54b6a89-4aae-4470-8b4b-9f7ca4d23622" width="48" height="48" alt="Java" />
@@ -60,6 +66,7 @@
       </a>
       <br>VS Code
     </td>
+    
 
 </table>
 
