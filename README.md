@@ -37,12 +37,6 @@
       <br> Jira
     </td>
     <td align="center" width="96">
-      <a href="#JPedroo-tech">
-        <img src="https://github.com/JPedroo/JPedroo/assets/90339129/956be8ce-7cb1-4233-bd96-a6def8d44cef" width="48" height="48" alt="MS 365" />
-      </a>
-      <br> MS 365
-    </td>
-    <td align="center" width="96">
       <a href="#JPedroo--tech">
         <img src="https://github.com/JPedroo/JPedroo/assets/90339129/d6b38a4f-b64f-4373-a6c1-b2f1471a20be" width="48" height="48" alt="MongoDB" />
       </a>
