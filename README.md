@@ -7,7 +7,7 @@
 - 📚 I'm a Computer Science Student at Universidade Federal de Catalão.
 - 📫 Contact me at <strong>joaopedrojp21@outlook.com</strong>
 - 💻 Connect with me on <a href="https://linkedin.com/in/devjpedro"><strong>LinkedIn</strong></a>
-- 🌱 Currently learning MongoDB and enhancing Python skills with Django framework.
+- 🌱 Currently learning MongoDB, React and enhancing Python skills with Django framework.
 - 🤖 I'm a mentor of a FIRST robotics team.
 
 <br>
@@ -18,6 +18,12 @@
 > Tools, languages, and other things that I like to work with.
 <table>
   <tr>
+    <td align="center" width="96"> 
+      <a href="#JPedroo-tech" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="48" height="48" alt="Arduino" />
+      </a>
+      <br> Arduino
+    </td>
      <td align="center" width="96"> 
       <a href="#JPedroo-tech" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/django/django-plain.svg" width="48" height="48" alt="Django" />
@@ -53,6 +59,12 @@
         <img src="https://github.com/JPedroo/JPedroo/assets/90339129/f345ca55-e98b-43ec-b152-738803ca7bdd" width="48" height="48" alt="Python" />
       </a>
       <br> Python
+    </td>
+    <td align="center' width="96">
+      <a href="#JPedroo-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      </a>
+      <br> React
     </td>
     <td align="center" width="96"> 
       <a href="#JPedroo-tech" >
