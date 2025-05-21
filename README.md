@@ -7,7 +7,7 @@
 - 📚 I'm an Infrastructure Engineer
 - 📫 Contact me at <strong>joaopedrojp21@outlook.com</strong>
 - 💻 Connect with me on <a href="https://linkedin.com/in/devjpedro"><strong>LinkedIn</strong></a>
-- 🌱 Currently learning DataBricks, React and enhancing Python skills with Machine Learning.
+- 🌱 Currently learning DataBricks, AWS and enhancing Python skills with Machine Learning.
 - 🤖 Curious Fact: I'm a former mentor of a FIRST robotics team.
 
 <br>
@@ -26,9 +26,9 @@
     </td>
      <td align="center" width="96"> 
       <a href="#JPedroo-tech" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/django/django-plain.svg" width="48" height="48" alt="Django" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" />
       </a>
-      <br> Django
+      <br> AWS
     </td>
     <td align="center" width="96">
       <a href="#JPedroo-tech">
