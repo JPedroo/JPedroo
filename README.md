@@ -1,5 +1,5 @@
 <h1 align ="center">Howdy, I'm João Pedro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1> 
-<h3 align="center">I do Back-End/Software Engineering things</h3>
+<h3 align="center">I do Automation/Software Engineering things</h3>
 <br>
 
 <img align="right" height="200px" width="350px" alt="GIF" src="https://github.com/JPedroo/JPedroo/assets/90339129/5d7f4bc5-7ae0-416b-8070-965c9ced4c7c" />
@@ -30,6 +30,12 @@
       </a>
       <br> AWS
     </td>
+     <td align="center" width="96">
+      <a href="#JPedroo--tech">
+        <img src="https://github.com/user-attachments/assets/fb1feef5-d7b2-4a74-88ab-34ae1f226bb4" height="48" alt="DataBricks" />
+      </a>
+      <br> Databricks
+    </td>
     <td align="center" width="96">
       <a href="#JPedroo-tech">
         <img src="https://github.com/JPedroo/JPedroo/assets/90339129/d54b6a89-4aae-4470-8b4b-9f7ca4d23622" width="48" height="48" alt="Java" />
@@ -42,13 +48,7 @@
     </a>
       <br> Jira
     </td>
-    <td align="center" width="96">
-      <a href="#JPedroo--tech">
-        <img src="https://github.com/JPedroo/JPedroo/assets/90339129/d6b38a4f-b64f-4373-a6c1-b2f1471a20be" width="48" height="48" alt="MongoDB" />
-      </a>
-      <br> MongoDB
-    </td>
-    <td align="center" width="96">
+      <td align="center" width="96">
       <a href="#JPedroo-tech">
         <img src="https://github.com/JPedroo/JPedroo/assets/90339129/4d7503db-3ee5-41af-b09e-f9d29480f5f8" width="48" height="48" alt="PostgreSQL" />
       </a>
@@ -66,13 +66,6 @@
       </a>
       <br> React
     </td>
-    <td align="center" width="96"> 
-      <a href="#JPedroo-tech" >
-        <img src="https://github.com/JPedroo/JPedroo/assets/90339129/3f4eae28-c3d8-4919-86e3-1fcc33c17ba1" width="48" height="48" alt="VS Code" />
-      </a>
-      <br>VS Code
-    </td>
-    
 
 </table>
 
