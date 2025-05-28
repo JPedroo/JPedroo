@@ -7,7 +7,7 @@
 - 📚 I'm an Infrastructure Engineer
 - 📫 Contact me at <strong>joaopedrojp21@outlook.com</strong>
 - 💻 Connect with me on <a href="https://linkedin.com/in/devjpedro"><strong>LinkedIn</strong></a>
-- 🌱 Currently learning DataBricks, AWS and enhancing Python skills with Machine Learning.
+- 🌱 Currently learning DataBricks, AWS and enhancing Python skills with Machine Learning and Flask;
 - 🤖 Curious Fact: I'm a former mentor of a FIRST robotics team.
 
 <br>
@@ -35,6 +35,12 @@
         <img src="https://github.com/user-attachments/assets/fb1feef5-d7b2-4a74-88ab-34ae1f226bb4" height="48" alt="DataBricks" />
       </a>
       <br> Databricks
+    </td>
+    <td align="center" width="96">
+      <a href="#JPedroo-tech">
+        <img src="https://github.com/pheralb/svgl/blob/main/static/library/flask-dark.svg" width="48" height="48" alt="Flask" />
+      </a>
+      <br> Flask
     </td>
     <td align="center" width="96">
       <a href="#JPedroo-tech">
