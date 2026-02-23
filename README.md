@@ -76,14 +76,7 @@
 </table>
 
 <br>
-<h2 align="left" id="JPedroo-stats">Github Stats</h2>
 
-> Total Commits, PRs, Stars and Most Used Languages.
-<div>
-  <img height="170cm" src="https://github-readme-stats.vercel.app/api?username=JPedroo&show_icons=true&theme=dark" />
-  <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPedroo&layout=compact&count_private=true&theme=dark" />
-</div>
-<br>
 <h3 align='center'>⚡️<i> If you want it, go get it! </i> ⚡</h3>
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
