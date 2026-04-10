@@ -7,7 +7,7 @@
 - 📚 I'm an Infrastructure Engineer
 - 📫 Contact me at <strong>joaopedrojp21@outlook.com</strong>
 - 💻 Connect with me on <a href="https://linkedin.com/in/devjpedro"><strong>LinkedIn</strong></a>
-- 🌱 Currently learning DataBricks, AWS and enhancing Python skills with Machine Learning and Flask;
+- 🌱 Currently enhancing skills in AI Data Engineering and Architecture;
 - 🤖 Curious Fact: I'm a former mentor of a FIRST robotics team.
 
 <br>
@@ -36,18 +36,6 @@
       </a>
       <br> Databricks
     </td>
-    <td align="center" width="96">
-      <a href="#JPedroo-tech">
-        <img src="https://github.com/pheralb/svgl/blob/main/static/library/flask-dark.svg" width="48" height="48" alt="Flask" />
-      </a>
-      <br> Flask
-    </td>
-    <td align="center" width="96">
-      <a href="#JPedroo-tech">
-        <img src="https://github.com/JPedroo/JPedroo/assets/90339129/d54b6a89-4aae-4470-8b4b-9f7ca4d23622" width="48" height="48" alt="Java" />
-      </a>
-      <br> Java
-    </td>
    <td align="center" width="96"> 
       <a href="#JPedroo-tech" >
         <img src="https://github.com/JPedroo/JPedroo/assets/90339129/c9bcff7c-919d-4a75-a809-dafb9de78506" width="48" height="48" alt="Jira" />
@@ -56,9 +44,15 @@
     </td>
       <td align="center" width="96">
       <a href="#JPedroo-tech">
-        <img src="https://github.com/JPedroo/JPedroo/assets/90339129/4d7503db-3ee5-41af-b09e-f9d29480f5f8" width="48" height="48" alt="PostgreSQL" />
+        <img src= "https://github.com/user-attachments/assets/64274e77-602b-43ea-a9ff-f41217b04088" width="60" height="60" alt="SparkSQL" />
       </a>
-      <br> PostgreSQL
+      <br> Spark
+    </td>
+    <td align="center" width="96">
+      <a href="#JPedroo-tech" >
+        <img src="https://github.com/user-attachments/assets/55baeba7-23bf-4ae1-92f1-ae712a996da1" width="48" height="48" alt="PBI" />
+      </a>
+      <br> Power BI
     </td>
     <td align="center" width="96">
       <a href="#JPedroo-tech" >
